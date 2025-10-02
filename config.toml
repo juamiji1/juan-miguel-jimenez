@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Juan Miguel Jiménez"
 theme = "academimal"
 publishDir = "docs"
+relativeURLs = false
+canonifyURLs = true
 
 [params]
   author = "Juan Miguel Jiménez"
