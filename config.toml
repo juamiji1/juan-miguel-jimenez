@@ -1,7 +1,8 @@
-baseURL = "https://juamiji1.github.io/"
+baseURL = "https://juamiji1.github.io/My-webpage/"
 languageCode = "en-us"
 title = "Juan Miguel Jiménez"
 theme = "academimal"
+publishDir = "docs"
 
 [params]
   author = "Juan Miguel Jiménez"
