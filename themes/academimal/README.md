@@ -1,6 +1,3 @@
-# My Webpage Link
-https://juamiji1.github.io/My-webpage/ 
-
 # Academimal
 
 Academimal is a two-column [Hugo](https://gohugo.io/) theme for researchers.
