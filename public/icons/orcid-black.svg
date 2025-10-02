@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple Leaf Icon - Black Version -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.leaf{fill:#333333;}
+	.stem{fill:#000000;}
+</style>
+<path class="leaf" d="M64,128C64,80,96,32,160,32c48,0,64,32,64,80c0,64-32,96-80,96C96,208,64,176,64,128z"/>
+<path class="stem" d="M144,208L144,208c-4,0-8-4-8-8v-72c0-4,4-8,8-8l0,0c4,0,8,4,8,8v72C152,204,148,208,144,208z"/>
+<path class="leaf" d="M80,144c16-8,32-12,48-16c8-2,16-4,24-8c4-2,8-2,8,2c0,4-4,6-8,8c-8,4-16,6-24,8c-16,4-32,8-48,16"/>
+</svg>

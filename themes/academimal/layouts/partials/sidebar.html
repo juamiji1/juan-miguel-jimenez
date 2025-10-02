@@ -5,44 +5,23 @@
   </div>
 {{ end }}
 
-<!-- CV Link -->
-<p class="contactinfo">
-  <a href="{{ "files/CV.pdf" | relURL }}" target="_blank">CV</a>
-</p>
-
 <!-- Email -->
 <p class="contactinfo">
-  <a href="mailto:ak234@student.ubc.ca">ak234@student.ubc.ca</a>
+  <a href="mailto:juamiji@gmail.com"><i class="fas fa-envelope"></i> juamiji@gmail.com</a>
 </p>
-
-<!-- Google Scholar -->
-{{ with .Site.Params.social.google_scholar }}
-  <p class="contactinfo">
-    <a href="{{ . }}" target="_blank">Google Scholar</a>
-  </p>
-{{ end }}
 
 <!-- Social icons -->
 <div class="social-icons">
   {{ with .Site.Params.social.github }}
     <a href="{{ . }}" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
   {{ end }}
-  {{ with .Site.Params.social.linkedin }}
-    <a href="{{ . }}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-  {{ end }}
-  {{ with .Site.Params.social.twitter }}
-    <a href="{{ . }}" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-  {{ end }}
-  {{ with .Site.Params.social.instagram }}
-    <a href="{{ . }}" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-  {{ end }}
-  {{ with .Site.Params.social.bluesky }}
-    <a href="{{ . }}" target="_blank" aria-label="Bluesky" style="font-size: 1em;">🦋</a>
+  {{ with .Site.Params.social.google_scholar }}
+    <a href="{{ . }}" target="_blank" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
   {{ end }}
 </div>
 
+<div style="margin-bottom: 10px;"></div>
 <!-- Section Links -->
-<p class="contactinfo"><a href="{{ "#bio" | relURL }}">Bio</a></p>
-<p class="contactinfo"><a href="{{ "#research" | relURL }}">Research</a></p>
-<p class="contactinfo"><a href="{{ "#women" | relURL }}">Women in Econ/Policy</a></p>
+<!-- <p class="contactinfo"><a href="{{ "#bio" | relURL }}">Bio</a></p>
+<p class="contactinfo"><a href="{{ "#research" | relURL }}">Research</a></p> -->
 
