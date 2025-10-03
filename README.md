@@ -1,2 +1,2 @@
 # My Webpage
-https://juamiji1.github.io/My-webpage/ 
+https://juamiji1.github.io/juan-miguel-jimenez/ 
