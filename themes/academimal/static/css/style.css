@@ -287,8 +287,9 @@ a:hover small {
   color: #777; }
 
 .wrapper {
-  width: 1060px;
-  margin: 0 auto; }
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px; }
 
 blockquote {
   border-left: 1px solid #e5e5e5;
@@ -326,6 +327,40 @@ th {
 img {
   max-width: 100%; }
 
+/* CV-style header */
+.cv-header {
+  text-align: center;
+  padding: 20px 0 30px;
+  border-bottom: 2px solid #e5e5e5;
+  margin-bottom: 30px;
+}
+
+.cv-name {
+  font-size: 32px !important;
+  margin: 0 0 15px 0 !important;
+  font-weight: 700;
+}
+
+.cv-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 15px;
+}
+
+.cv-contact-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.cv-contact-item i {
+  font-size: 16px;
+}
+
+/* Original header styles (kept for backward compatibility) */
 header {
   width: 270px;
   float: left;
@@ -383,8 +418,7 @@ header ul a strong {
   color: #222; }
 
 section {
-  width: 700px;
-  float: right;
+  width: 100%;
   padding-bottom: 50px; }
 
 small {
@@ -413,12 +447,7 @@ footer {
     position: static;
     width: auto; }
 
-  header {
-    padding-right: 320px; }
-
   section {
-    border: 1px solid #e5e5e5;
-    border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px; }
 
@@ -440,7 +469,16 @@ footer {
     position: static; }
 
   pre, code {
-    word-wrap: normal; } }
+    word-wrap: normal; }
+
+  .cv-contact {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .cv-name {
+    font-size: 26px !important;
+  } }
 @media print, screen and (max-width: 480px) {
   body {
     padding: 15px; }

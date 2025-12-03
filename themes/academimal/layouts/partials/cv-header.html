@@ -1,0 +1,21 @@
+<div class="cv-header">
+  <h1 class="cv-name">{{ .Site.Params.author }}</h1>
+  
+  <div class="cv-contact">
+    <span class="cv-contact-item">
+      <i class="fas fa-envelope"></i> <a href="mailto:juamiji@gmail.com">juamiji@gmail.com</a>
+    </span>
+    
+    {{ with .Site.Params.social.github }}
+    <span class="cv-contact-item">
+      <i class="fab fa-github"></i> <a href="{{ . }}" target="_blank">GitHub</a>
+    </span>
+    {{ end }}
+    
+    {{ with .Site.Params.social.google_scholar }}
+    <span class="cv-contact-item">
+      <i class="fas fa-graduation-cap"></i> <a href="{{ . }}" target="_blank">Google Scholar</a>
+    </span>
+    {{ end }}
+  </div>
+</div>

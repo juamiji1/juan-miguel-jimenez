@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://juamiji1.github.io/juan-miguel-jimenez/sections/research/</loc></url><url><loc>https://juamiji1.github.io/juan-miguel-jimenez/categories/</loc></url><url><loc>https://juamiji1.github.io/juan-miguel-jimenez/</loc></url><url><loc>https://juamiji1.github.io/juan-miguel-jimenez/sections/</loc></url><url><loc>https://juamiji1.github.io/juan-miguel-jimenez/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/juan-miguel-jimenez/sections/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/juan-miguel-jimenez/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/juan-miguel-jimenez/</loc>
+  </url><url>
+    <loc>http://localhost:1313/juan-miguel-jimenez/sections/</loc>
+  </url><url>
+    <loc>http://localhost:1313/juan-miguel-jimenez/tags/</loc>
+  </url>
+</urlset>
