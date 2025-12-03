@@ -333,12 +333,15 @@ img {
   padding: 20px 0 30px;
   border-bottom: 2px solid #e5e5e5;
   margin-bottom: 30px;
+  clear: both;
+  width: 100%;
 }
 
 .cv-name {
   font-size: 32px !important;
   margin: 0 0 15px 0 !important;
   font-weight: 700;
+  text-align: center;
 }
 
 .cv-contact {
@@ -348,12 +351,14 @@ img {
   flex-wrap: wrap;
   gap: 20px;
   font-size: 15px;
+  text-align: center;
 }
 
 .cv-contact-item {
   display: inline-flex;
   align-items: center;
   gap: 5px;
+  white-space: nowrap;
 }
 
 .cv-contact-item i {
@@ -419,7 +424,8 @@ header ul a strong {
 
 section {
   width: 100%;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+  clear: both; }
 
 small {
   font-size: 11px; }
