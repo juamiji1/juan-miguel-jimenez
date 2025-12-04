@@ -212,7 +212,7 @@
 body {
   background-color: #fff;
   padding: 50px;
-  font: 17px/1.5 "Computer Modern Serif", "Latin Modern Roman", "Times New Roman", Times, serif;
+  font: 16px/1.5 "Computer Modern Serif", "Latin Modern Roman", "Times New Roman", Times, serif;
   color: #333333;
   font-weight: 400;
 }
@@ -258,7 +258,7 @@ h1, h2, h3 {
   line-height: 1.1; }
 
 h1 {
-  font-size: 27px; }
+  font-size: 26px; }
 
 h2 {
   color: #393939; }
@@ -338,7 +338,7 @@ img {
 }
 
 .cv-name {
-  font-size: 36px !important;
+  font-size: 34px !important;
   margin: 0 0 15px 0 !important;
   font-weight: 700;
   text-align: center;
@@ -350,7 +350,7 @@ img {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  font-size: 17px;
+  font-size: 16px;
   text-align: center;
 }
 
@@ -362,7 +362,7 @@ img {
 }
 
 .cv-contact-item i {
-  font-size: 18px;
+  font-size: 17px;
 }
 
 /* Original header styles (kept for backward compatibility) */

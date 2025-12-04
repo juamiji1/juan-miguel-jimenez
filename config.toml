@@ -1,6 +1,6 @@
 baseURL = "https://juamiji1.github.io/juan-miguel-jimenez/"
 languageCode = "en-us"
-title = "Juan Miguel Jiménez"
+title = "Juan Miguel Jiménez R."
 theme = "academimal"
 publishDir = "docs"
 relativeURLs = false
