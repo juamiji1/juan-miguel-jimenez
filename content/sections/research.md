@@ -18,16 +18,16 @@ weight: 3
 (with [Lizeth Molina](), and [Santiago Saavedra]())  
 <span style="color: grey;"><em>Revise and resubmit at The Journal of Environmental Economics and Management</em></span>
 
+**[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation]()**  
+(with [Bart Bonikowski](), [Nathan Nunn](), [Oscar Stuhler]() and [Satish Wasti]())  
+<span style="color: grey;"><em>Submitted</em></span>
+
 **[Little Nomads: Economic and Social Impacts of Migration on Children](http://documents.worldbank.org/curated/en/099418301302435890/IDU113cacc80159c21491318dca10779c4990d0b)**  
 (with [Magdalena Cortina](), and [Sandra Rozo]())  
 <span style="color: grey;"><em>World Bank Group Policy Research Working Paper</em></span>
 
 
 #### Work in Progress
-
-**[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation]()**  
-(with [Bart Bonikowski](), [Nathan Nunn](), [Oscar Stuhler]() and [Satish Wasti]())  
-<span style="color: grey;"><em>Draft available upon request</em></span>
 
 **[Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon]()**  
 (with [Tiago Bonomo](), and [Claudio Ferraz]())  
