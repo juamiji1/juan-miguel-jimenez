@@ -25,7 +25,7 @@ weight: 3
 
 #### Work in Progress
 
-**[Folklore and the Environment]()**  
+**[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation]()**  
 (with [Bart Bonikowski](), [Nathan Nunn](), [Oscar Stuhler]() and [Satish Wasti]())  
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
