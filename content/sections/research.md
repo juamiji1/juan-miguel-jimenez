@@ -16,7 +16,7 @@ weight: 3
 
 **[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316533)**  
 (with [Lizeth Molina](), and [Santiago Saavedra]())  
-<span style="color: grey;"><em>Revise and resubmit at The Journal of Environmental Economics and Management</em></span>
+<span style="color: grey;"><em>Conditionally accepted at The Journal of Environmental Economics and Management</em></span>
 
 **[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation]()**  
 (with [Bart Bonikowski](), [Nathan Nunn](), [Oscar Stuhler]() and [Satish Wasti]())  
@@ -29,18 +29,25 @@ weight: 3
 
 #### Work in Progress
 
+**[Land as a Path to Peace? Property Rights Restoration and Economic Development after Conflict]()**  
+<span style="color: grey;"><em>Draft available upon request</em></span>
+
+**[Legal Personality for Bodies of Nature as a New Way of Environmental Protection]()**  
+
+**[Dry Rights, Rising Inequality: Water Rights, Scarcity, and Capital Accumulation in Chile]()**  
+(with [Felipe Sepulveda]())  
+
 **[Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon]()**  
 (with [Tiago Bonomo](), and [Claudio Ferraz]())  
 <span style="color: grey;"><em>Draft available upon request</em></span>
+
+**[Land Transferability and Agricultural Productivity in Vietnam under Doi Moi Reforms]()**  
+(with [Nhi Cao](), [Prerna Kundu](), and [Hector Paredes]())  
 
 **[International Migration and Housing Prices: Crime or Investment?]()**  
 (with [Daniel M Angel](), and [Lukas Delgado]())  
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
-**[Land as a Path to Peace? The Effect of Land Restitution on Violence and Agricultural Investment]()**  
-<span style="color: grey;"><em>Draft available upon request</em></span>
-
-**[Legal Personality for Bodies of Nature as a New Way of Environmental Protection]()**  
 
 
 
