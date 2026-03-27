@@ -34,7 +34,7 @@ weight: 3
 
 <span>Legal Personality for Bodies of Nature as a New Way of Environmental Protection</span>
 
-<span>Dry Rights, Rising Inequality: Water Rights, Scarcity, and Capital Accumulation in Chile</span><br>
+<span>Dry Rights, Rising Inequality: Water Rights, Scarcity, and Asset Accumulation in Chile</span><br>
 (with [Felipe Sepulveda]())
 
 <span>Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon</span><br>
