@@ -1,4 +1,9 @@
 baseURL = "https://juamiji1.github.io/juan-miguel-jimenez/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 languageCode = "en-us"
 title = "Juan Miguel Jiménez R."
 theme = "academimal"
