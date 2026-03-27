@@ -29,23 +29,23 @@ weight: 3
 
 #### Work in Progress
 
-**[Land as a Path to Peace? Property Rights Restoration and Economic Development after Conflict]()**  
+**[Land as a Path to Peace? Property Rights Restoration and Economic Development after Conflict]()**
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
-**[Legal Personality for Bodies of Nature as a New Way of Environmental Protection]()**  
+**[Legal Personality for Bodies of Nature as a New Way of Environmental Protection]()**
 
-**[Dry Rights, Rising Inequality: Water Rights, Scarcity, and Capital Accumulation in Chile]()**  
-(with [Felipe Sepulveda]())  
+**[Dry Rights, Rising Inequality: Water Rights, Scarcity, and Capital Accumulation in Chile]()**
+(with [Felipe Sepulveda]())
 
-**[Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon]()**  
-(with [Tiago Bonomo](), and [Claudio Ferraz]())  
+**[Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon]()**
+(with [Tiago Bonomo](), and [Claudio Ferraz]())
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
-**[Land Transferability and Agricultural Productivity in Vietnam under Doi Moi Reforms]()**  
-(with [Nhi Cao](), [Prerna Kundu](), and [Hector Paredes]())  
+**[Land Transferability and Agricultural Productivity in Vietnam under Doi Moi Reforms]()**
+(with [Nhi Cao](), [Prerna Kundu](), and [Hector Paredes]())
 
-**[International Migration and Housing Prices: Crime or Investment?]()**  
-(with [Daniel M Angel](), and [Lukas Delgado]())  
+**[International Migration and Housing Prices: Crime or Investment?]()**
+(with [Daniel M Angel](), and [Lukas Delgado]())
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
 
