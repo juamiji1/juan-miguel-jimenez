@@ -29,22 +29,22 @@ weight: 3
 
 #### Work in Progress
 
-<span style="color: grey;">[Land as a Path to Peace? Property Rights Restoration and Economic Development after Conflict]()</span>
+<span style="color: grey;">Land as a Path to Peace? Property Rights Restoration and Economic Development after Conflict</span>
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
-<span style="color: grey;">[Legal Personality for Bodies of Nature as a New Way of Environmental Protection]()</span>
+<span style="color: grey;">Legal Personality for Bodies of Nature as a New Way of Environmental Protection</span>
 
-<span style="color: grey;">[Dry Rights, Rising Inequality: Water Rights, Scarcity, and Capital Accumulation in Chile]()</span>
+<span style="color: grey;">Dry Rights, Rising Inequality: Water Rights, Scarcity, and Capital Accumulation in Chile</span>
 (with [Felipe Sepulveda]())
 
-<span style="color: grey;">[Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon]()</span>
+<span style="color: grey;">Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon</span>
 (with [Tiago Bonomo](), and [Claudio Ferraz]())
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
-<span style="color: grey;">[Land Transferability and Agricultural Productivity in Vietnam under Doi Moi Reforms]()</span>
+<span style="color: grey;">Land Transferability and Agricultural Productivity in Vietnam under Doi Moi Reforms</span>
 (with [Nhi Cao](), [Prerna Kundu](), and [Hector Paredes]())
 
-<span style="color: grey;">[International Migration and Housing Prices: Crime or Investment?]()</span>
+<span style="color: grey;">International Migration and Housing Prices: Crime or Investment?</span>
 (with [Daniel M Angel](), and [Lukas Delgado]())
 <span style="color: grey;"><em>Draft available upon request</em></span>
 
