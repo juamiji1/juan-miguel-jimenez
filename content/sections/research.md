@@ -16,7 +16,7 @@ weight: 3
 
 **[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316533)**  
 (with [Lizeth Molina](), and [Santiago Saavedra]())  
-<span>Conditionally accepted at The Journal of Environmental Economics and Management</span>
+<span>Forthcoming at The Journal of Environmental Economics and Management</span>
 
 **[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation]()**  
 (with [Bart Bonikowski](), [Nathan Nunn](), [Oscar Stuhler]() and [Satish Wasti]())  
