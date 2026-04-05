@@ -20,7 +20,7 @@ weight: 3
 
 **[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation]()**  
 (with [Bart Bonikowski](), [Nathan Nunn](), [Oscar Stuhler]() and [Satish Wasti]())  
-<span>Submitted</span>
+<span>Revise and resubmit at Evolution and Human Behavior</span>
 
 **[Little Nomads: Economic and Social Impacts of Migration on Children](http://documents.worldbank.org/curated/en/099418301302435890/IDU113cacc80159c21491318dca10779c4990d0b)**  
 (with [Magdalena Cortina](), and [Sandra Rozo]())  
