@@ -5,6 +5,10 @@ weight: 3
 ---
 #### Publications
 
+**[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316533)**  
+(with [Lizeth Molina](), and [Santiago Saavedra]())  
+<span>Forthcoming at The Journal of Environmental Economics and Management</span>
+
 **[Voy a la ciudad, voy a trabajar? Land opportunity costs on rural to urban climatic migration and its effect on income](https://repositorio.uniandes.edu.co/handle/1992/41074)**  
 <span>Documentos CEDE-Universidad de los Andes, 2019</span>
 
@@ -14,10 +18,6 @@ weight: 3
 (with [Antonella Bandiera](), [Lelys Dinarte](), [Sandra Rozo](), and [Micaela Sviatschi]())  
 <span>Revise and resubmit at The Review of Economic Studies</span>
 
-**[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316533)**  
-(with [Lizeth Molina](), and [Santiago Saavedra]())  
-<span>Forthcoming at The Journal of Environmental Economics and Management</span>
-
 **[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation]()**  
 (with [Bart Bonikowski](), [Nathan Nunn](), [Oscar Stuhler]() and [Satish Wasti]())  
 <span>Revise and resubmit at Evolution and Human Behavior</span>
@@ -25,7 +25,6 @@ weight: 3
 **[Little Nomads: Economic and Social Impacts of Migration on Children](http://documents.worldbank.org/curated/en/099418301302435890/IDU113cacc80159c21491318dca10779c4990d0b)**  
 (with [Magdalena Cortina](), and [Sandra Rozo]())  
 <span>World Bank Group Policy Research Working Paper</span>
-
 
 #### Work in Progress
 
