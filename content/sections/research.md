@@ -5,7 +5,7 @@ weight: 3
 ---
 #### Publications
 
-**[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316533)**  
+**[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://authors.elsevier.com/sd/article/S0095-0696(26)00055-0)**  
 (with [Lizeth Molina](), and [Santiago Saavedra]())  
 <span>Forthcoming at The Journal of Environmental Economics and Management</span>
 
