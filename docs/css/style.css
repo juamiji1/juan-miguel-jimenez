@@ -507,3 +507,8 @@ header h1 {
   word-break: keep-all;
 }
 
+/* Replication code / data links under a publication */
+.pub-links {
+  font-size: 0.875em;
+}
+
