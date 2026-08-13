@@ -1,0 +1,4 @@
+{{- $d := .Destination -}}
+{{- /* Open real links in a new tab; skip empty destinations (e.g. placeholder
+       co-author links) and in-page anchors, which would open a blank tab. */ -}}
+<a href="{{ $d | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if and $d (not (strings.HasPrefix $d "#")) }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
