@@ -38,12 +38,12 @@ weight: 3
 (with [Felipe Sepulveda](https://fnsepulveda.github.io/))
 
 <span>Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon</span><br>
-(with [Tiago Bonomo](), and [Claudio Ferraz](https://sites.google.com/site/claudferraz/))<br>
+(with [Tiago Bonomo](https://sites.google.com/view/tiagobonomo), and [Claudio Ferraz](https://sites.google.com/site/claudferraz/))<br>
 <span>Draft available upon request</span>
 
 <span>Land Transferability and Agricultural Productivity in Vietnam under Doi Moi Reforms</span><br>
-(with [Nhi Cao](), [Prerna Kundu](), and [Hector Paredes]())
+(with [Nhi Cao](), [Prerna Kundu](https://prernakundu.github.io/), and [Hector Paredes](https://www.parisschoolofeconomics.eu/en/persons/hector-paredes/))
 
-<span>International Migration and Housing Prices: Crime or Investment?</span><br>
-(with [Daniel M Angel](), and [Lukas Delgado]())<br>
+<span>Immigration Shocks and Housing Dynamics: Evidence from Bogota</span><br>
+(with [Daniel M Angel](https://sites.google.com/view/danielmangel), and [Lukas Delgado](https://www.lukasdelgadoprieto.com/))<br>
 <span>Draft available upon request</span>
