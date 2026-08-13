@@ -12,7 +12,7 @@ weight: 3
 **[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://doi.org/10.1016/j.jeem.2026.103335)**  
 (with [Lizeth Molina](), and [Santiago Saavedra]())  
 <span>Journal of Environmental Economics and Management, Volume 138, June 2026, 103335 </span>  
-<span>[Replication code](https://github.com/juamiji1/Deforestation/tree/master/code/JEEM-replication) · [Data](https://www.dropbox.com/scl/fi/495wz4wshpkqcgup5r3k4/defo_caralc.dta?rlkey=az4znrj1yt03b5wpxf7qte1tc&dl=0)</span>
+<span>\[[Code](https://github.com/juamiji1/Deforestation/tree/master/code/JEEM-replication)\] · \[[Data](https://www.dropbox.com/scl/fi/495wz4wshpkqcgup5r3k4/defo_caralc.dta?rlkey=az4znrj1yt03b5wpxf7qte1tc&dl=0)\]</span>
 
 **[Voy a la ciudad, voy a trabajar? Land opportunity costs on rural to urban climatic migration and its effect on income](https://repositorio.uniandes.edu.co/handle/1992/41074)**  
 <span>Documentos CEDE-Universidad de los Andes, 2019</span>
