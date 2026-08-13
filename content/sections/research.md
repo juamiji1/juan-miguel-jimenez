@@ -6,7 +6,7 @@ weight: 3
 #### Publications
 
 **[When Nature Has Agency: Traditional Worldviews and Contemporary Environmental Conservation](https://www.sciencedirect.com/science/article/pii/S1090513826001212)**  
-(with [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Nathan Nunn](https://nathannunn.arts.ubc.ca/research/), [Oscar Stuhler](https://oscarstuhler.org/) and [Satish Wasti]())  
+(with [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Nathan Nunn](https://nathannunn.arts.ubc.ca/), [Oscar Stuhler](https://oscarstuhler.org/) and [Satish Wasti]())  
 <span>Evolution and Human Behavior, Volume 47, Issue 5, September 2026, 106942 </span>
 
 **[Power Plays in the Jungle: Political Alignment and Environmental Degradation in Colombia](https://doi.org/10.1016/j.jeem.2026.103335)**  
@@ -35,10 +35,10 @@ weight: 3
 <span>Legal Personality for Bodies of Nature as a New Way of Environmental Protection</span>
 
 <span>Dry Rights, Rising Inequality: Water Rights, Scarcity, and Asset Accumulation in Chile</span><br>
-(with [Felipe Sepulveda]())
+(with [Felipe Sepulveda](https://fnsepulveda.github.io/))
 
 <span>Burning Votes? Electoral Consequences of Fires and Air Pollution in the Brazilian Amazon</span><br>
-(with [Tiago Bonomo](), and [Claudio Ferraz]())<br>
+(with [Tiago Bonomo](), and [Claudio Ferraz](https://sites.google.com/site/claudferraz/))<br>
 <span>Draft available upon request</span>
 
 <span>Land Transferability and Agricultural Productivity in Vietnam under Doi Moi Reforms</span><br>
